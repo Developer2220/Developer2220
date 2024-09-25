@@ -22,6 +22,7 @@
 
 
 <h2 align="center">📈 Some stats </h2>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pavel&show_icons=true&locale=en&layout=compact" alt="pavel" /></p>
 
 
 <h2 align="center">👨‍💻 Contacts</h2>
