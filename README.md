@@ -32,6 +32,9 @@
 <div align="center">
 <a href="[https://t.me/@BetterCallSaul_13](https://t.me/@BetterCallSaul_13)" target="_blank"><img alt="Telegram" 
 src="https://img.shields.io/badge/-Telegram-blue.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
+
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KirillTheStranger)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kir.chekasin@gmail.com)
 </div>
 
 [JS-badge]: https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript
