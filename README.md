@@ -30,7 +30,7 @@
 
 <h2 align="center">👨‍💻 Contacts</h2>
 <div align="center">
-<a href="[[https://t.me/JS_NinjaNN](https://t.me/@BetterCallSaul_13)](https://t.me/@BetterCallSaul_13)" target="_blank"><img alt="Telegram" 
+<a href="[https://t.me/@BetterCallSaul_13](https://t.me/@BetterCallSaul_13)" target="_blank"><img alt="Telegram" 
 src="https://img.shields.io/badge/-Telegram-blue.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
 </div>
 
