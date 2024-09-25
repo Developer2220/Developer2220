@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I am Pavel, a frontend developer.</h1>
 
-<!--
-**Developer2220/Developer2220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🛠️ My skills</h2>
 
-Here are some ideas to get you started:
+###### Languages, frameworks and libraries
+[![JS][JS-badge]][JS-url]
+[![React][React-badge]][React-url]
+[![HTML5][HTML-badge]][HTML-url]
+[![CSS3][CSS-badge]][CSS-url]
+[![SCSS][SCSS-badge]][SCSS-url]
+[![Bootstrap][Bootstrap-badge]][Bootstrap-url]
+[![Axios][Axios-badge]][Axios-url]
+[![Node.js][Node.js-badge]][Node.js-url]
+[![Jest][Jest-badge]][Jest-url]
+[![Webpack][Webpack-badge]][Webpack-url]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Tools
+
+[![VSCode][VSCode-badge]][VSCode-url]
+[![Git][Git-badge]][Git-url]
+[![Figma][Figma-badge]][Figma-url]
+
+
+<h2 align="center">📈 Some stats </h2>
+
+
+<h2 align="center">👨‍💻 Contacts</h2>
+<div align="center">
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@BetterCallSaul_13)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: web.js.ezh@gmail.com)
+</div>
+
+[JS-badge]: https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=javascript
+[JS-url]: https://www.w3schools.com/js
+
+[React-badge]: https://img.shields.io/badge/React-222?style=for-the-badge&logo=react
+[React-url]: https://react.dev
+
+[HTML-badge]: https://img.shields.io/badge/HTML5-222?style=for-the-badge&logo=html5
+[HTML-url]: https://www.w3schools.com/html
+
+[CSS-badge]: https://img.shields.io/badge/CSS3-222?style=for-the-badge&logo=css3&logoColor=1572B6
+[CSS-url]: https://www.w3schools.com/css
+
+[SCSS-badge]: https://img.shields.io/badge/SCSS-222?style=for-the-badge&logo=sass
+[SCSS-url]: https://sass-lang.com
+
+[Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-222?style=for-the-badge&logo=bootstrap
+[Bootstrap-url]: https://getbootstrap.com
+
+[Axios-badge]: https://img.shields.io/badge/Axios-222?style=for-the-badge&logo=Axios
+[Axios-url]: https://axios-http.com
+
+[Node.js-badge]: https://img.shields.io/badge/Node.js-222?style=for-the-badge&logo=Node.js
+[Node.js-url]: https://nodejs.org
+
+[Jest-badge]: https://img.shields.io/badge/Jest-222?style=for-the-badge&logo=Jest
+[Jest-url]: https://jestjs.io
+
+[Webpack-badge]: https://img.shields.io/badge/Webpack-222?style=for-the-badge&logo=Webpack
+[Webpack-url]: https://webpack.js.org
+
+[VSCode-badge]: https://img.shields.io/badge/VSCode-222?style=flat-square&logo=visualStudioCode&logoColor=007ACC
+[VSCode-url]: https://code.visualstudio.com
+
+[Git-badge]: https://img.shields.io/badge/Git-222?style=flat-square&logo=git
+[Git-url]: https://git-scm.com
+
+[Figma-badge]: https://img.shields.io/badge/Figma-222?style=flat-square&logo=Figma
+[Figma-url]: https://www.figma.com
