@@ -22,15 +22,13 @@
 
 
 <h2 align="center">📈 Some stats </h2>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=pavel&show_icons=true&locale=en&layout=compact" alt="pavel" /></p>
+ <img src="https://github-readme-stats.vercel.app/api?username=Developer2220&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Developer2220&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
 <h2 align="center">👨‍💻 Contacts</h2>
 <div align="center">
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@BetterCallSaul_13)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: web.js.ezh@gmail.com)
-
-<a href="[https://t.me/JS_NinjaNN](https://t.me/@BetterCallSaul_13)" target="_blank"><img alt="Telegram" 
+<a href="[[https://t.me/JS_NinjaNN](https://t.me/@BetterCallSaul_13)](https://t.me/@BetterCallSaul_13)" target="_blank"><img alt="Telegram" 
 src="https://img.shields.io/badge/-Telegram-blue.svg?&style=for-the-badge&logo=Telegram&logoColor=white" /></a>
   
 </div>
